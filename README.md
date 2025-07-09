@@ -1,15 +1,26 @@
 # Business Analytics Portfolio
 
-Welcome to my GitHub portfolio!
+Welcome to my Business Analytics GitHub Portfolio! 🚀
 
-I am currently learning and practicing skills in:
-- Power BI
-- SQL
-- Python (Pandas, NumPy)
-- Dashboard building
-- Data cleaning and analysis
+I am Aakanksha, an aspiring Business Analyst passionate about transforming data into actionable insights.
 
-I will keep adding small projects here as I progress in my journey towards becoming a Business Analyst.
+Currently, I am building my skills in:
+- Power BI (dashboard automation, reporting)
+- SQL (data extraction, cleaning)
+- Python (Pandas, NumPy for analysis)
+- Generative AI for data-driven problem-solving
 
-📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/aakanksha-businessanalyst).
+### 📈 Projects I will add here:
+✅ Power BI dashboards on sales and marketing data  
+✅ SQL queries for business reporting  
+✅ Python scripts for data cleaning and visualization  
+✅ Notes and resources from my certifications
 
+This GitHub will document my learning journey and projects as I prepare for a Business Analyst role.
+
+---
+
+📫 **Connect with me:**
+
+- LinkedIn: [linkedin.com/in/aakanksha-businessanalyst](https://www.linkedin.com/in/aakanksha-businessanalyst)
+- Email: aakanksha.businessanalyst@gmail.com
